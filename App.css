@@ -1,0 +1,47 @@
+.body{
+    background-image: url('https://img.freepik.com/free-vector/simple-blank-orange-background-vector-business_53876-171639.jpg?w=2000');
+    background-size: cover;
+    text-align: center;
+}
+.h1{
+  text-align: center;
+  font-size: 60px;
+  font-weight: 700;
+  color: rgb(240, 167, 124);
+  padding-top: 100px;
+  padding-bottom: 40px;
+}
+
+.content{
+  font-size: 25px;
+  
+}
+.rectangle1,.rectangle2,.rectangle4
+{
+  width: 300px;
+  height: 25px;
+  border-radius: 10px;
+  font-size: 18px;
+}
+
+
+
+.font
+{
+  font-size: 20px;
+}
+.space1{
+  padding-top: 1px;
+}
+.space2{
+  padding-bottom: 200px;
+}
+.create {
+  cursor: pointer;
+  border-radius: 15px;
+  background-color: rgb(240, 167, 124);
+  color: black;
+  height:40px;
+  width: 200px;
+  
+}
